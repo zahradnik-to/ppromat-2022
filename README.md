@@ -4,24 +4,23 @@
 4. Application is ready to use.
 
 Individual repositories for application:
-  Frontend: https://github.com/zahradnik-to/ppro-22-gui
-  Backend https://gitlab.com/bielima1/ppro-project
-
+- Frontend: https://github.com/zahradnik-to/ppro-22-gui
+- Backend https://gitlab.com/bielima1/ppro-project
 
 Application is preloaded with default data including like users events and variants.
 
 Default users by role:
-  USER:
-    marek
-	tomas
-	jannovak
-	novakova
-  SELLER:
-    cj123
-	carevents
-	zahr
-  ADMIN:
-    johndoe
-	janedoe
+- USER:
+  - marek 
+  - tomas
+  - jannovak
+  - novakova
+- SELLER:
+  - cj123
+  - carevents
+  - zahr
+- ADMIN:
+  - johndoe
+  - janedoe
 
 Default password for all users is: 123
